@@ -1,0 +1,8 @@
+/* TP Identification */
+
+/* style de composants de base */
+table{border:2px solid black; border-spacing:0px; font-size:16pt; margin-left:auto; margin-right:auto; width:50%;}
+thead{background-color:silver;font-style:bold;color:black;}
+thead > tr > td{font-weight:bold;}
+tbody > tr > td{color:black;}
+td{text-align:center; border:1px solid black; padding-left:10px; padding-right:10px; width:25%;}
